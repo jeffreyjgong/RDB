@@ -316,7 +316,7 @@ input:focus:-ms-input-placeholder { color:transparent !important; } /* oldIE ;) 
 }
 
 .fa-heart {
-    padding-right: .78571429rem;
+    padding-right: 1rem;
 }
 
 .last-column {
